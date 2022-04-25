@@ -1,6 +1,6 @@
 # 📚 ScrollBook Performance Audit
 
-<img src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/Schermafbeelding%202022-04-25%20om%2012.30.26.png" />
+<img src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/Schermafbeelding%202022-04-25%20om%2012.53.07.png" />
 
 Dit project omvat een performance audit, waarbij is gekeken hoe goed de performance is van een boekenpagina in de scrollbook applicatie.
 
