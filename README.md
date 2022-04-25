@@ -1,14 +1,14 @@
-# 🗞 Beyco Newspage Performance Audit
+# 📚 ScrollBook Performance Audit
 
 <img src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/Schermafbeelding%202022-04-25%20om%2012.30.26.png" />
 
-Dit project omvat een performance audit, waarbij is gekeken hoe goed de performance is van de beyco nieuwspagina.
+Dit project omvat een performance audit, waarbij is gekeken hoe goed de performance is van een boekenpagina in de scrollbook applicatie.
 
 Link van de website: https://beyconewsbnb.student.fdnd.nl/
 
 ## ContentAudit
-Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot toe. 
 
+Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot toe. 
 
 ### First Contentful Paint (FCP)
 _Beschrijf de uitslag van de FCP van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
