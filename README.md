@@ -20,10 +20,18 @@ Dit project omvat een performance audit, waarbij is gekeken hoe goed de performa
 
 ### 🥇 First Contentful Paint (FCP)
 
+<img width="500" src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/Schermafbeelding%202022-04-25%20om%2013.12.21.png" />
+
 De FCP test had een goed resultaat, alleen er was een `render-blocking` issue. Dit ging om een JavaScript bestand wat de rest van de pagina blokkeerde bij het laden.
 
-### Time to Interactive (TTI)
+<hr>
+
+### ⏰ Time to Interactive (TTI)
 _Beschrijf de uitslag van de TTI van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
+
+Voor de TTI gaf lighthouse een groene score terug zonder verbeterpunten.
+
+<hr>
 
 ### Speed Index
 _Beschrijf de uitslag van de SI van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
