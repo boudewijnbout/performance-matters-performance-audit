@@ -1,17 +1,26 @@
 # 📚 ScrollBook Performance Audit
 
-<img src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/Schermafbeelding%202022-04-25%20om%2012.53.07.png" />
+<img width="800" src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/Schermafbeelding%202022-04-25%20om%2012.55.06.png" />
 
-Dit project omvat een performance audit, waarbij is gekeken hoe goed de performance is van een boekenpagina in de scrollbook applicatie.
+Dit project omvat een performance audit, waarbij is gekeken hoe goed de performance is van een book preview pagina van de scrollbook applicatie.
 
-Link van de website: https://scrollbook.student.fdnd.nl/lotr/book/
+- Link van de website: https://scrollbook.student.fdnd.nl/lotr/book/
 
-## ContentAudit
+## 🤘🏼 ContentAudit
 
-Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot toe. 
+<img width="800" src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/Schermafbeelding%202022-04-25%20om%2012.53.07.png" />
 
-### First Contentful Paint (FCP)
-_Beschrijf de uitslag van de FCP van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
+- Omschrijving: Deze pagina toont een gedeelte van het geselecteerde boek vanuit de homepagina van scrollbook. Op deze pagina kan een kort gedeelte van het geselecteerde boek worden gelezen om een impressie te krijgen.
+
+- Datum: 25 april 2022.
+
+- Link van de website: https://scrollbook.student.fdnd.nl/lotr/book/
+
+<hr>
+
+### 🥇 First Contentful Paint (FCP)
+
+De FCP test had een goed resultaat, alleen er was een `render-blocking` issue. Dit ging om een JavaScript bestand wat de rest van de pagina blokkeerde bij het laden.
 
 ### Time to Interactive (TTI)
 _Beschrijf de uitslag van de TTI van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
