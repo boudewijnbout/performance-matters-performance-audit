@@ -4,7 +4,7 @@
 
 Dit project omvat een performance audit, waarbij is gekeken hoe goed de performance is van een boekenpagina in de scrollbook applicatie.
 
-Link van de website: https://beyconewsbnb.student.fdnd.nl/
+Link van de website: https://scrollbook.student.fdnd.nl/lotr/book/
 
 ## ContentAudit
 
