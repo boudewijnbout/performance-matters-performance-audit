@@ -2,6 +2,8 @@
 
 Dit project omvat een performance audit, waarbij is gekeken hoe goed de performance is van de beyco nieuwspagina.
 
+Link van de website: https://beyconewsbnb.student.fdnd.nl/
+
 ## ContentAudit
 Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot toe. 
 
