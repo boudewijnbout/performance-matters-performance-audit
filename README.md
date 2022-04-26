@@ -36,15 +36,22 @@ Voor de TTI gaf lighthouse een score van boven de 90 terug terug zonder verbeter
 
 ### Speed Index
 
-
+<img width="300" src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/foto-ssi.PNG" />
 
 Voor de SSI gaf lighthouse een score van boven de 90 terug zonder verbeterpunten.
 
 ### Total Blocking Time (TBT)
-_Beschrijf de uitslag van de TBT van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
+
+<img width="300" src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/foto-tbt.PNG" />
+
+Voor de TBT gaf lighthouse een score van boven de 90 terug zonder verbeterpunten.
 
 ### Largest Contentful Paint (LCP)
-_Beschrijf de uitslag van de LCP van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
+
+<img width="300" src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/foto-lcp.PNG" />
+
+<img width="450" src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/foto-lcp-2.PNG" />
+
 
 ### Cumulative Layout Shift (CLS)
 _Beschrijf de uitslag van de CLS van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
