@@ -28,12 +28,17 @@ De FCP test had een goed resultaat, alleen er was een `render-blocking` issue. D
 
 ### ⏰ Time to Interactive (TTI)
 
+<img width="300" src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/foto-tti.PNG" />
+
 Voor de TTI gaf lighthouse een score van boven de 90 terug terug zonder verbeterpunten.
 
 <hr>
 
 ### Speed Index
-_Beschrijf de uitslag van de SI van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
+
+
+
+Voor de SSI gaf lighthouse een score van boven de 90 terug zonder verbeterpunten.
 
 ### Total Blocking Time (TBT)
 _Beschrijf de uitslag van de TBT van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
