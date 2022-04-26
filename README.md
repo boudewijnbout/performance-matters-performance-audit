@@ -68,6 +68,8 @@ Voor de CLS gaf lighthouse een score van boven de 90 terug zonder verbeterpunten
 
 ## 📝 Bronnen
 
+https://developers.google.com/web/tools/lighthouse
+
 ## ✔️ Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
