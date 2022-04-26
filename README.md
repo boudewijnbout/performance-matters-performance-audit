@@ -61,13 +61,14 @@ Zoals op bovenstaande foto's te zien is kan de LCP flink worden verbeterd. Dit k
 <hr>
 
 ### Cumulative Layout Shift (CLS)
-_Beschrijf de uitslag van de CLS van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
+<img width="300" src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/foto-cls.PNG" />
 
+Voor de CLS gaf lighthouse een score van boven de 90 terug zonder verbeterpunten.
 
-## Bronnen
+## 📝 Bronnen
 
-## Licentie
+## ✔️ Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
