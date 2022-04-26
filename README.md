@@ -27,9 +27,8 @@ De FCP test had een goed resultaat, alleen er was een `render-blocking` issue. D
 <hr>
 
 ### ⏰ Time to Interactive (TTI)
-_Beschrijf de uitslag van de TTI van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
-Voor de TTI gaf lighthouse een groene score terug zonder verbeterpunten.
+Voor de TTI gaf lighthouse een score van boven de 90 terug terug zonder verbeterpunten.
 
 <hr>
 
