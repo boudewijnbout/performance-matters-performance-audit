@@ -34,24 +34,31 @@ Voor de TTI gaf lighthouse een score van boven de 90 terug terug zonder verbeter
 
 <hr>
 
-### Speed Index
+### 🏎️ Speed Index
 
 <img width="300" src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/foto-ssi.PNG" />
 
 Voor de SSI gaf lighthouse een score van boven de 90 terug zonder verbeterpunten.
 
-### Total Blocking Time (TBT)
+<hr>
+
+### 🛑 Total Blocking Time (TBT)
 
 <img width="300" src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/foto-tbt.PNG" />
 
 Voor de TBT gaf lighthouse een score van boven de 90 terug zonder verbeterpunten.
 
-### Largest Contentful Paint (LCP)
+<hr>
 
-<img width="300" src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/foto-lcp.PNG" />
+### 🛳️ Largest Contentful Paint (LCP)
+
+<img width="450" src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/foto-lcp.PNG" />
 
 <img width="450" src="https://github.com/boudewijnbout/performance-matters-performance-audit/blob/main/assets/foto-lcp-2.PNG" />
 
+Zoals op bovenstaande foto's te zien is kan de LCP flink worden verbeterd. Dit komt voornamelijk, omdat er in het project hele grote foto's zijn gebruikt. Ook worden de foto's aangeleverd in PNG, iets wat lighthouse niet zo leuk vind die raad aan om webp en/of amf te gebruiken.
+
+<hr>
 
 ### Cumulative Layout Shift (CLS)
 _Beschrijf de uitslag van de CLS van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
